@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# builds
+build/
+dist/
+.next/
+
+# environment / secrets
+.env
+.env.*
+!.env.example
+
+# PRIVATE GAUNTLET IP — never commit
+constitution/
+private-constitution/
+master-gauntlet-constitution.*
+**/GAUNTLET_CONSTITUTION.*
+
+# local
+.DS_Store
+*.log
+.vscode/
+.idea/
