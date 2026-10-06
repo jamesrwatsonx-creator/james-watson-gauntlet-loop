@@ -1,3 +1,4 @@
+<img width="1079" height="544" alt="25710" src="https://github.com/user-attachments/assets/014c21b5-dc2f-41c3-839a-944bff04714a" />
 # James Watson's Gauntlet Loop
 
 A recursive multi-agent orchestration system for building from recovered constraints rather than surface imitation.
