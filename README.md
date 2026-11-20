@@ -63,3 +63,12 @@ The hidden Constitution is product IP and must never be exposed through client c
 ## Status
 
 Early product architecture / V1 build.
+
+## Role in an agent engineering stack
+
+Gauntlet is designed as a constraint-discovery and construction/evaluation method, not a model, universal memory store or complete agent runtime. Prompting specifies an objective; context supplies relevant knowledge; a harness provides tools and permissions; loops correct a bounded result; graphs coordinate real dependencies. Gauntlet can operate within those layers to recover why a benchmark works and revise both the construction and the underlying assumptions when evidence contradicts them.
+
+A prospective integration should accept a scoped goal, reference, environment, constraints and acceptance criteria, and return an artifact, actual evaluation evidence, unresolved issues and candidate transferable lessons. Bound retries, cost and time; keep independent evaluation distinct from builder advocacy; use deterministic checks where possible. New hypotheses are not validated competence. Never allow a comparative win to override mandatory security, accessibility or functional requirements.
+
+The system is an early specification, not a demonstrated autonomous runtime. This public README deliberately describes only the general method; private constitutions, owner-specific context, credentials and commercial integration plans remain outside this repository.
+
